@@ -1,0 +1,3 @@
+# Weasel
+
+Simple Python code
